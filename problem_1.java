@@ -1,4 +1,4 @@
-// String class - Concatenation & Immutability
+// String class - Immutability & Concatenation
 // 
 
 // Example 1
