@@ -1,4 +1,4 @@
-# java-oca
+# java OCA
 
 #### 1. String class - Immutability & Concatenation
 #### 2. StringBuilder - Mutability & Chaining
